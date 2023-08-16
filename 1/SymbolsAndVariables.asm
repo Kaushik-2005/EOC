@@ -1,0 +1,12 @@
+0
+INFINITE_LOOP
+counter
+SCREEN
+address
+address
+address
+32
+address
+counter
+LOOP
+INFINITE_LOOP
